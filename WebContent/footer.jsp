@@ -43,7 +43,7 @@
             </div>
         </div>
     </div>
-    <p class="dibu" style="font-size: 14px;">web编程技术课程   第三次大作业<br>计算机科学与工程学院  物联网工程1802班 欧尔 20184332 于2020年11月30日制作完成</p></div>
+    <p class="dibu" style="font-size: 14px;">web编程技术课程   第三次大作业<br>2020年11月30日制作完成</p></div>
 <script src="js/jquery-1.12.4.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="js/jquery.SuperSlide.2.1.1.js" type="text/javascript" charset="utf-8"></script>
 <script src="js/public.js" type="text/javascript" charset="utf-8"></script>

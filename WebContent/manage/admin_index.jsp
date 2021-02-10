@@ -48,7 +48,7 @@
                     </li>
                     
                      <li>
-                        <label class="res-lab">设计人</label><span class="res-info">欧尔</span>
+                        <label class="res-lab">设计人</label><span class="res-info">oale</span>
                     </li>
                     <li>
                         <label class="res-lab">完成时间</label><span class="res-info">2020.11.30</span>
